@@ -577,6 +577,17 @@ body {
   text-decoration: none;
   font-size: 15px;  }
 
+
+/* 2부 참석 여부 숨김 */
+.attendance {
+  display: none;
+}
+
+
+
+
+
+
 .account {
   padding: 60px 25px;
   text-align: center;
