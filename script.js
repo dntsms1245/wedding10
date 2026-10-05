@@ -19,17 +19,15 @@ kakaoShareButton.addEventListener("click", function() {
              webUrl: 'https://dntsms1245.github.io/wedding10/'
             }
     },
-    buttons: [
-      {
-        title: "청첩장 보러가기",
-        link: {
-          mobileWebUrl:
-            "https://dntsms1245.github.io/Wedding/",
-          webUrl:
-            "https://dntsms1245.github.io/Wedding/"
-        }
-      }
-    ]
+   buttons: [
+  {
+    title: '모바일 청첩장 보기',
+    link: {
+      mobileWebUrl: 'https://dntsms1245.github.io/wedding10/',
+      webUrl: 'https://dntsms1245.github.io/wedding10/'
+    }
+  }
+]
   });
 });
 
